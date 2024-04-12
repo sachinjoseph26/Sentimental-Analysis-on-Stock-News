@@ -1,1 +1,4 @@
-# Sentimental-Analysis-on-Stock-Price
+# Sentimental-Analysis-on-Stock-News
+
+
+==

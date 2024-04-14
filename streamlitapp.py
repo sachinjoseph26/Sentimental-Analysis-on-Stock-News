@@ -46,7 +46,7 @@ def predict_sentiment(embeddings):
     return sentiments[prediction[0]]
 
 # Streamlit UI setup
-st.title("News Headline Sentiment Analysis")
+st.title("Stock News Headline Sentiment Analysis")
 headline = st.text_input("Enter a news headline:")
 if st.button("Analyze Sentiment"):
     if headline:
